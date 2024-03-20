@@ -1,0 +1,13 @@
+percentage,outlier,correction,imputation,r2
+20,z,drop,LOCF,0.7761749384624191
+20,z,drop,interpolation,0.7784074646516687
+20,z,LOCF,LOCF,0.7756597401110539
+20,z,LOCF,interpolation,0.7772625794264125
+20,lof,drop,LOCF,0.7814
+20,lof,drop,interpolation,0.782
+20,lof,LOCF,LOCF,0.7642108878584923
+20,lof,LOCF,interpolation,0.7689621615433054
+20,hst,drop,LOCF,0.7750395521479859
+20,hst,drop,interpolation,0.7778994766946574
+20,hst,LOCF,LOCF,0.7760032056786307
+20,hst,LOCF,interpolation,0.775602495849791
